@@ -6,7 +6,7 @@ ID : CT08EHV<br>
 Domain : Power BI<br>
 Duration : 17, December,2024 to 17, January ,2025 <br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Objective : Develop a report to analyze HR data, including employee demographics, attrition rates, and performance metrics. Import HR data from a database or Excel file. Create visuals to represent employee demographics and performance metrics.
+Objective : DEVELOP A POWER BI DASHBOARD SHOWING SALES TRENDS, TOP PRODUCTS, AND REGIONAL PERFORMANCE USING SAMPLE DATA. CREATE A SALES DASHBOARD DELIVERABLE: A POWER BI FILE (.PBIX) WITH INTERACTIVE VISUALS AND SLICERS.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Welcome to the Hyper Store Sales Dashboard project! This repository showcases a comprehensive and interactive sales analysis dashboard built using Power BI. The project leverages Power Query for data transformation and analysis to provide actionable insights for the Hyper Store's sales performance across regions.<br>
 🛠️ Project Highlights<br>
